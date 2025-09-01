@@ -274,9 +274,6 @@ Open frontend at `http://localhost:5173` (or CRA port) and ensure `CLIENT_ORIGIN
 
 ---
 
-## 👤 Authors
-
-**Sourabh Roy** – prep4sde
 
 Contributors welcome.
 
